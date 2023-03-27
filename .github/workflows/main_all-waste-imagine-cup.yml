@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'all-waste-imagine-cup'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CEF8AAB3BF3347618FC2702E5AE4BF91 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EFCB7C98A5E8460D906C60CAF0338450 }}
           package: .
